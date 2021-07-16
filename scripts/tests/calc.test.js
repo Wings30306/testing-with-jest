@@ -36,14 +36,3 @@ describe("Calculator",() => {
     });
 
 })
-
-
-/**
- * Potential test ideas (addition)
- * test for no params
- * test for missing param
- * string as param
- * null as param
- * floating point numbers
- * negative numbers
- */
